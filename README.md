@@ -1,79 +1,64 @@
 # KOSX 人物志 · 创造者黄页
 
-基于 [impact.kosx.ai](https://impact.kosx.ai/) 的入口，把 KOSX 社群在 X 上的大 V 做成「他是谁 / 写什么 / 怎么合作」的人物档案站。
+基于 [impact.kosx.ai](https://impact.kosx.ai/) 万粉影响力计划整理的 X 创造者人物志，不是源站仪表盘的复制品。
 
-这不是 impact.kosx.ai 的仪表盘复刻。impact 已经做好粉丝、登阶、影响力指数与近 20 帖采集。本站补的是叙事档案与合作黄页。
+- 在线打开：把本仓库 GitHub Pages 开到 `main` / `root`，或直接打开 `index.html`
+- 仓库：https://github.com/Digidai/kosx-renwuzhi
+- 113 位可见成员；18 位万粉人物志 + 11 位新锐/节点
+- 快照：impact.kosx.ai **2026-09-26 14:00 UTC**（源站写「每小时自动采集」；about 另写每日北京时间早八 + 可手动刷新）
+- 简介与外链于 2026-09-26 用公开 X 主页、个站与 GitHub 复核
 
-数据快照：2026-09-25 16:00 UTC（impact 采集）+ 2026-09-26 X 公开主页复核。
+## 和源站的分工
 
-## 社群快照
+| 源站 impact.kosx.ai | 本站 |
+| --- | --- |
+| 成长曲线、影响力指数、粉丝画像、称号进度 | 人物定位、内容母题、代表作原链、已核公开主页、合作切入 |
 
-- 追踪成员 113–114（榜单可见 113）
-- 万粉成员 18
-- 社群累计粉丝 754,607
-- 过万占比 7.7% · 认证 49.0% · 近 30 天 +61,770
-- 赛道：AI工具 58 · 增长 33 · 开发者 23 · 财经 23 · 出海 5
+## 已核公开主页（未发明）
 
-## 万粉 18
+| 人 | 入口 |
+| --- | --- |
+| Roland.W | https://imroland.com |
+| 黄小木 | https://imhxm.com |
+| Jackywine | https://github.com/Jackywine/Bella · 飞书「非线性成长」 |
+| 蜗牛King | https://chuhai.pet （账号/订阅店，不是作品集） |
+| Adrian Punk | https://iamadrianpunk.com · https://github.com/adrianpunk/Punk-Skill |
+| AI最严厉的父亲 | https://dashen.wang |
+| 阿川 | https://imachuan.com （薄站） |
+| 得否 | https://wangdefou.com · https://markx.defou.ai |
+| Kimberly | https://kim-ai-workshop.com |
+| 微尘印记 | https://www.youtube.com/@weichen_ink |
+| Russell | https://app.knockin.info |
+| 陈大黄 | https://chendahuang.com · https://github.com/realchendahuang/FlareMo |
+| 可可鸭 | https://coucouya.com |
+| Edison | https://edison-zwteam.pages.dev |
+| 雪瑜 | https://www.dinosaurliu.com |
+| Jarvis | https://aiunivid.com |
 
-| #  | 名字 | Handle | 粉丝 | 定位 |
-| --- | --- | --- | ---: | --- |
-| 1 | 魂蓝 | [@hunlan77](https://x.com/hunlan77) | 113.8k | SISSYSTARS 品牌，成人向需 18+ 标注 |
-| 2 | Roland.W | [@rwayne](https://x.com/rwayne) | 61.3k | 澳洲 PhD，本地模型 / 知识库 / GEO |
-| 3 | 黄小木 | [@ai_xiaomu](https://x.com/ai_xiaomu) | 50.8k | 前大厂 T11 → OPC，First Check |
-| 4 | Jackywine | [@Jackywine](https://x.com/Jackywine) | 48.2k | Obsidian / Prompt / 模型拆解 |
-| 5 | 蜗牛King | [@isnail](https://x.com/isnail) | 43.1k | 自媒体小项目实战 |
-| 6 | Adrian Punk | [@AdrianPunk115](https://x.com/AdrianPunk115) | 37.5k | AI 视觉 Skills，AfterNoise |
-| 7 | AI最严厉的父亲 | [@dashen_wang](https://x.com/dashen_wang) | 29.8k | AGI 叙事 / 态度帖 |
-| 8 | 阿川 | [@AI_jacksaku](https://x.com/AI_jacksaku) | 27.7k | AI 产品商业化，3 天万粉 |
-| 9 | 诺鸭船长3 | [@noahduck283](https://x.com/noahduck283) | 22.4k | AI 工作流 / 数字基建 |
-| 10 | 得否 | [@wangdefou](https://x.com/wangdefou) | 17.8k | 文科生搞 AI，企业顾问，MarkX |
-| 11 | Foe Ally | [@ally_foe](https://x.com/ally_foe) | 16.4k | 不接广告的生活流 |
-| 12 | Serena 木瓜 | [@369Serena](https://x.com/369Serena) | 15.6k | AI 小白教程 / KOL 运营 |
-| 13 | Chenxi | [@CMhOeNnExY](https://x.com/CMhOeNnExY) | 14.0k | 深圳 AI 公司 CEO，B 端 Agent |
-| 14 | Yuvi | [@Li665508Li](https://x.com/Li665508Li) | 11.9k | 财经 / 增长 |
-| 15 | Kimberly | [@king1818888](https://x.com/king1818888) | 11.4k | 澳洲 Builder，FlareMo / Video Script |
-| 16 | YiLong Ma（模仿） | [@mayilong0](https://x.com/mayilong0) | 11.3k | 币圈模仿号，页面需标注 |
-| 17 | 微尘印记 | [@weichen_ink](https://x.com/weichen_ink) | 10.8k | 创作者工具箱 + YouTube |
-| 18 | Russell | [@Russell3402](https://x.com/Russell3402) | 10.6k | 05 大学生，Syntax Studio |
+## 动态更新（不能租 firehose）
 
-新锐补位：苏乐 [@ai_suxiaole](https://x.com/ai_suxiaole) · 可可鸭 [@KeKeYa88](https://x.com/KeKeYa88) · Chill [@Chilljccu](https://x.com/Chilljccu) · Edison [@Edison_aware](https://x.com/Edison_aware)
+1. 展示层：X 官方 embed（`platform.x.com/widgets.js` / publish.x.com oEmbed）
+2. 指标层：X API v2 `GET /2/users/by/username` + `GET /2/users/:id/tweets`，小时 cron
+3. 或经允许后复用 impact.kosx.ai 已有小时采集
 
-社群节点：Vegas Liu [@vegas_liu](https://x.com/vegas_liu) （KOSX 主理人）
+Enterprise 全量 firehose 需要官方合约，不是个人站能租的。禁止大规模爬取。
 
-## X 内容能不能「租」，能不能动态更新？
+## 本地预览
 
-不能便宜租 X firehose。Enterprise 火推需官方合约，价格不是社群看板级预算。
-
-合规三条路：
-
-1. **展示层（免费、始终最新）**  
-   官方 embed / oEmbed：`https://publish.x.com/oembed` + `https://platform.twitter.com/widgets.js`  
-   单帖与 timeline widget 会自动跟随作者删帖、账号状态。
-
-2. **指标层（小时级 cron）**  
-   X API v2 Basic（约 $200/月）足够 100+ 账号：  
-   `GET /2/users/by/username/:username`  
-   `GET /2/users/:id/tweets`  
-   与 impact.kosx.ai 现有小时采集对齐。
-
-3. **复用 impact 管线**  
-   他们已在拉公开粉丝与近 20 帖。本站可以只做人物志层，指标继续读他们。
-
-禁止：大规模非官方爬取、转存付费内容、忽视 rate limit、不加年龄门展示成人账号。
-
-### Embed 示例
-
-```html
-<blockquote class="twitter-tweet">
-  <a href="https://x.com/Edison_aware/status/2103084919635509483"></a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```bash
+python3 -m http.server 8080
 ```
 
-## 本仓状态
+打开 http://localhost:8080
 
-- `index.html`：单页人物志站（由团队写入）
-- 本 README：产品定位与动态更新方案
+## 注意
 
-源站：[impact.kosx.ai](https://impact.kosx.ai/) · [kosx.ai](https://kosx.ai/) · [@kosxai](https://x.com/kosxai)
+- 魂蓝 @hunlan77 已标 18+
+- Chill 年龄与「怒赚 100 万」为自称、未核实；今日涨粉是近 7 天 +1,515，不是单日 +1,659
+- 子扬 998 粉，距「千帆竞发」差 2，不是距万人迷
+- YiLong Ma @mayilong0 为模仿号
+- 「马斯克研究所合作伙伴」、OPC/项目收入数字均为简介自称
+- FlareMo 仓库属陈大黄，Kimberly 是共创/笔记贡献
+- weichen.ink/posts/about 404，已弃
+- 财经内容不构成投资建议
+- 代充店 / 账号店如实标注，不美化、不背书
