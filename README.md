@@ -4,9 +4,9 @@
 
 - 在线打开：把本仓库 GitHub Pages 开到 `main` / `root`，或直接打开 `index.html`
 - 仓库：https://github.com/Digidai/kosx-renwuzhi
-- 113 位可见成员；18 位万粉人物志 + 11 位新锐/节点
-- 快照：impact.kosx.ai **2026-09-26 14:00 UTC**（源站写「每小时自动采集」；about 另写每日北京时间早八 + 可手动刷新）
-- 简介与外链于 2026-09-26 用公开 X 主页、个站与 GitHub 复核
+- 113 位可见成员；18 位万粉人物志 + 16 位新锐/节点（含产品与组织节点）
+- 快照：impact.kosx.ai **2026-09-26 14:00 UTC**（社群粉 757,010 · 近 30 天 +64,189 · 源站写「每小时自动采集」）
+- 简介与外链于 2026-09-26 用公开 X 主页、个站与 GitHub 二次复核
 
 ## 和源站的分工
 
@@ -29,11 +29,13 @@
 | Kimberly | https://kim-ai-workshop.com |
 | 微尘印记 | https://www.youtube.com/@weichen_ink |
 | Russell | https://app.knockin.info |
-| 陈大黄 | https://chendahuang.com · https://github.com/realchendahuang/FlareMo |
+| 陈大黄 | https://chendahuang.com · https://github.com/realchendahuang/FlareMo · https://flaremo.app |
 | 可可鸭 | https://coucouya.com |
 | Edison | https://edison-zwteam.pages.dev |
 | 雪瑜 | https://www.dinosaurliu.com |
-| Jarvis | https://aiunivid.com |
+| Jarvis | https://aiunivid.com （Seedance 按量付费视频站） |
+| 邪恶大薯条 | https://linc.wang （造境 zaelume + AI 订阅雷达） |
+| 诺鸭船长3 | 飞书 https://lcn72qpspzgt.feishu.cn/wiki/LAdqwYYDbi9s8NkkyJccbZXynyf |
 
 ## 动态更新（不能租 firehose）
 
@@ -62,3 +64,6 @@ python3 -m http.server 8080
 - weichen.ink/posts/about 404，已弃
 - 财经内容不构成投资建议
 - 代充店 / 账号店如实标注，不美化、不背书
+- Station Cat 是两个账号：@bketck（2,715）与 @statiocat（349），不要合并
+- 兔子舞约会指南帖只作爆帖记录，不做成约会教学
+- 老杨特靠谱简介含 VPN 机场，名录只放 X，不包装成工具站
