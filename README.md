@@ -2,7 +2,8 @@
 
 基于 [impact.kosx.ai](https://impact.kosx.ai/) 万粉影响力计划整理的 X 创造者人物志，不是源站仪表盘的复制品。
 
-- 在线打开：把本仓库 GitHub Pages 开到 `main` / `root`，或直接打开 `index.html`
+- 本轮新增：头像（43 个已核 X pbs 直链，其余首字母色块，不走 unavatar 配额）+ **资料室**（仓库 / 个站 / 产品 / 知识库 / 社群入口）
+- 在线打开：把本仓库 GitHub Pages 开到 `main` / `root`，或直接打开 `index.html`（数据在 `avatars.js` / `archive.js` / `members.js` / `rising.js` / `roster.js` / `posts.js`）
 - 仓库：https://github.com/Digidai/kosx-renwuzhi
 - 113 位可见成员；18 位万粉人物志 + 16 位新锐/节点（含产品与组织节点）
 - 快照：impact.kosx.ai **2026-09-26 14:00 UTC**（社群粉 757,010 · 近 30 天 +64,189 · 源站写「每小时自动采集」）
@@ -34,8 +35,10 @@
 | Edison | https://edison-zwteam.pages.dev |
 | 雪瑜 | https://www.dinosaurliu.com |
 | Jarvis | https://aiunivid.com （Seedance 按量付费视频站） |
-| 邪恶大薯条 | https://linc.wang （造境 zaelume + AI 订阅雷达） |
+| 邪恶大薯条 | https://linc.wang · https://zaelume.com · https://airadar.vip |
 | 诺鸭船长3 | 飞书 https://lcn72qpspzgt.feishu.cn/wiki/LAdqwYYDbi9s8NkkyJccbZXynyf |
+| anionex | https://github.com/Anionex/banana-slides（15.7k★）· https://bananaslides.online · anionex.me 间歇不可达 |
+| Roland.W 内页 | https://imroland.com/research-skill/ · https://imroland.com/singular-house/ |
 
 ## 动态更新（不能租 firehose）
 
@@ -67,3 +70,6 @@ python3 -m http.server 8080
 - Station Cat 是两个账号：@bketck（2,715）与 @statiocat（349），不要合并
 - 兔子舞约会指南帖只作爆帖记录，不做成约会教学
 - 老杨特靠谱简介含 VPN 机场，名录只放 X，不包装成工具站
+- anionex.me 为 GitHub 登记站，2026-09-27 探测失败，产品站 bananaslides.online 可打开
+- banana-slides 15.7k★ 属 @anion_ex，不要按 851 粉低估
+- mooninai.top 来自 X bio 登记，薄站可能，打开前再核一次
